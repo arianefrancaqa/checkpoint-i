@@ -1,4 +1,4 @@
-# Front-end II - checkpoint-i
+# Front-end II - CheckPoint-i
 
 ## Developers: :computer:
 - Denise Capitaneo
